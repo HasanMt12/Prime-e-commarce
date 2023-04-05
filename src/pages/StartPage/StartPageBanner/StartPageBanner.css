@@ -1,0 +1,10 @@
+.mainDiv{
+      background: url('../../../assets/start-page.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 450px;
+  margin: 0;
+  padding: 0;
+ opacity: 0.95;
+  background-position: center;
+}
